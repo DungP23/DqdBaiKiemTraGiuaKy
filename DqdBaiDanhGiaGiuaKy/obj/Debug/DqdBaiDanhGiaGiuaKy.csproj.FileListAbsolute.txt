@@ -1,0 +1,2 @@
+E:\ASP.NET\DqdBaiDanhGiaGiuaKy\DqdBaiDanhGiaGiuaKy\obj\Debug\DqdBaiDanhGiaGiuaKy.csproj.AssemblyReference.cache
+E:\ASP.NET\DqdBaiDanhGiaGiuaKy\DqdBaiDanhGiaGiuaKy\obj\Debug\DqdBaiDanhGiaGiuaKy.csproj.CoreCompileInputs.cache
